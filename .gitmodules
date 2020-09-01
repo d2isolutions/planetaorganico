@@ -2,3 +2,7 @@
 	path = operating-unit
 	url = git@github.com:d2i-solutions/operating-unit.git
 	branch = pr_149
+[submodule "l10n_hn_accounting"]
+	path = l10n_hn_accounting
+	url = git@github.com:d2isolutions/l10n_hn_accounting.git
+	branch = 12.0
